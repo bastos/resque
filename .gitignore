@@ -8,6 +8,7 @@ test/stdout
 *.swp
 pkg
 .ruby-version
+mise.toml
 .ruby-gemset
 *.sw?
 vendor/bundle
